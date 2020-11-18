@@ -9,6 +9,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MachineTypeApp.SqlServer", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineTypeApp.Models", "MachineTypeApp.Models\MachineTypeApp.Models.csproj", "{21042D86-F773-40FE-AF7C-BA0339B75E14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineTypeApp.Models.Tests", "MachineTypeApp.Models.Tests\MachineTypeApp.Models.Tests.csproj", "{F386D203-EB4D-4D6F-B495-B39AC113C6C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{21042D86-F773-40FE-AF7C-BA0339B75E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21042D86-F773-40FE-AF7C-BA0339B75E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21042D86-F773-40FE-AF7C-BA0339B75E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F386D203-EB4D-4D6F-B495-B39AC113C6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F386D203-EB4D-4D6F-B495-B39AC113C6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F386D203-EB4D-4D6F-B495-B39AC113C6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F386D203-EB4D-4D6F-B495-B39AC113C6C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

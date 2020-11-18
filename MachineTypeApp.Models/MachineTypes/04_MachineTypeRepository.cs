@@ -62,7 +62,7 @@ namespace MachineTypeApp.Models.MachineTypes
         }
 
         // 페이징 
-        public async Task<ArticleSet<MachineType, int>> GetAll(int pageIndex, int pageSize)
+        public async Task<ArticleSet<MachineType, int>> GetAllAsync(int pageIndex, int pageSize)
         {
             var totalCount = await _context.MachineTypes.CountAsync(); // 총 레코드 수
             var items = await _context.MachineTypes

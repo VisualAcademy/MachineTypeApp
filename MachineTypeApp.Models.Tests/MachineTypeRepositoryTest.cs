@@ -78,7 +78,7 @@ namespace MachineTypeApp.Models.Tests
                 Assert.AreEqual("[2] Machine Type", model.Name);
             }
 
-            //[4] GetEditAsync() Method Test
+            //[4] EditAsync() Method Test
             using (var context = new MachineTypeDbContext(options))
             {
                 // Empty

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30709.64
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineTypeApp", "MachineTypeApp\MachineTypeApp.csproj", "{71A7273E-7004-401D-86E0-18C6534EA827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTypeApp", "MachineTypeApp\MachineTypeApp.csproj", "{71A7273E-7004-401D-86E0-18C6534EA827}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MachineTypeApp.SqlServer", "MachineTypeApp.SqlServer\MachineTypeApp.SqlServer.sqlproj", "{29D21CDD-3DD7-44C0-8AC2-6E62F898099C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineTypeApp.Models", "MachineTypeApp.Models\MachineTypeApp.Models.csproj", "{21042D86-F773-40FE-AF7C-BA0339B75E14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTypeApp.Models", "MachineTypeApp.Models\MachineTypeApp.Models.csproj", "{21042D86-F773-40FE-AF7C-BA0339B75E14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineTypeApp.Models.Tests", "MachineTypeApp.Models.Tests\MachineTypeApp.Models.Tests.csproj", "{F386D203-EB4D-4D6F-B495-B39AC113C6C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTypeApp.Models.Tests", "MachineTypeApp.Models.Tests\MachineTypeApp.Models.Tests.csproj", "{F386D203-EB4D-4D6F-B495-B39AC113C6C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineTypeApp.Apis", "MachineTypeApp.Apis\MachineTypeApp.Apis.csproj", "{6480B873-A26D-48A6-B70E-F57DCDBD2C43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{F386D203-EB4D-4D6F-B495-B39AC113C6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F386D203-EB4D-4D6F-B495-B39AC113C6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F386D203-EB4D-4D6F-B495-B39AC113C6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6480B873-A26D-48A6-B70E-F57DCDBD2C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6480B873-A26D-48A6-B70E-F57DCDBD2C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6480B873-A26D-48A6-B70E-F57DCDBD2C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6480B873-A26D-48A6-B70E-F57DCDBD2C43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

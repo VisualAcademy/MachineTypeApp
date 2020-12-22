@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace MachineTypeApp.Models.MachineTypes
+namespace MachineTypeApp.Models
 {
     public class MachineTypeDbContext : DbContext
     {

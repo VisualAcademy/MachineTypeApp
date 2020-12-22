@@ -1,4 +1,4 @@
-﻿using MachineTypeApp.Models.MachineTypes;
+﻿using MachineTypeApp.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace MachineTypeApp.Models.MachineTypes
+namespace MachineTypeApp.Models
 {
     public class MachineType
     {

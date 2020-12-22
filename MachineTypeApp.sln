@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTypeApp.Models", "Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTypeApp.Models.Tests", "MachineTypeApp.Models.Tests\MachineTypeApp.Models.Tests.csproj", "{F386D203-EB4D-4D6F-B495-B39AC113C6C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineTypeApp.Apis", "MachineTypeApp.Apis\MachineTypeApp.Apis.csproj", "{6480B873-A26D-48A6-B70E-F57DCDBD2C43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTypeApp.Apis", "MachineTypeApp.Apis\MachineTypeApp.Apis.csproj", "{6480B873-A26D-48A6-B70E-F57DCDBD2C43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

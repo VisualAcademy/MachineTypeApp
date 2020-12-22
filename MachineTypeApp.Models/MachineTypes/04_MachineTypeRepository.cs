@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MachineTypeApp.Models.MachineTypes
+namespace MachineTypeApp.Models
 {
     public class MachineTypeRepository : IMachineTypeRepository
     {

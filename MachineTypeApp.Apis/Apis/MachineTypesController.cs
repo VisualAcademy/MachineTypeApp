@@ -1,4 +1,4 @@
-﻿using MachineTypeApp.Models.MachineTypes;
+﻿using MachineTypeApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;

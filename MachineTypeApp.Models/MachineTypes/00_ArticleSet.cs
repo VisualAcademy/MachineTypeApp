@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MachineTypeApp.Models.MachineTypes
+namespace MachineTypeApp.Models
 {
     /// <summary>
     /// 페이징된 아티클과 아티클 개수

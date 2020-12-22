@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace MachineTypeApp.Models.MachineTypes
+namespace MachineTypeApp.Models
 {
     public interface IMachineTypeRepository
     {
